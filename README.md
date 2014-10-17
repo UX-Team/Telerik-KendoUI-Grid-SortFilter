@@ -31,6 +31,6 @@ The built-in filtering and sorting offered by Telerik was inconsistent, any sort
 
 ##Tested against##
 
-Internet Explorer 11
-Google Chrome 28
-JAWS 14
+- Internet Explorer 11
+- Google Chrome 28
+- JAWS 14
