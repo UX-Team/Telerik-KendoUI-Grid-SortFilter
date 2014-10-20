@@ -1,13 +1,12 @@
 Telerik-KendoUI-Grid-WCAG2
 ==========================
-
-WCAG2 conformant Telerik KendoUI Grid
-
 This is a C# MVC4 page which initialises the Telerik KendoUI Grid via JQuery and populates an example dataset from Telerik.
 
 The two accessible features this <strong>example focuses on are filtering and sorting only</strong>. The Telerik built-in filtering and sorting options are unable to be understood when navigating with Assistive Technology (JAWS and NVDA) and have been discarded for a custom solution which uses Javascript/JQuery to achieve the same action.
 
-Assumes a C# MVC4 project has been created and Telerik KendoUI has been properly setup. Refer to the wiki for Configuration and setup information.
+Assumes a C# MVC4 project has been created and Telerik KendoUI has been properly setup. 
+
+<strong>Refer to the wiki for Configuration and setup information.</strong>
 
 ##How our KendoUI grid is accessible##
 - Hidden link text has been added to give sorting and filtering links more context, especially when AT users bring up a list of links on the page
